@@ -3,4 +3,19 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body {
+    background-color:#F6F8F9;
+    font-family: 'Times New Roman', Times, serif;
+}
+#divLogo {
+    width: 100%;
+    background-color: #FFFFFF;
+}
+main {
+    margin: 30px 300px;
+}
 
+.container {
+    background-color: #FFFFFF;
+    padding: 30px;
+}
