@@ -19,3 +19,18 @@ main {
     background-color: #FFFFFF;
     padding: 30px;
 }
+#btn-group {
+    margin-bottom: 3px;
+    padding: 5px 30px;
+}
+#addSectionBtn {
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid #D2D8DB;
+}
+#addTaskBtn {
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #14AAF5;
+    border: 0px;
+}
